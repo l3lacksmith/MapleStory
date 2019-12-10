@@ -539,8 +539,6 @@ body
 .cubeButtonAgain
 {
   position:absolute;
-  height:16px;
-  width:133px;
   background-image:url("http://localhost/cube/img/Cube_Red.BtOnemore.normal.0.png");
   z-index:100;
 }
