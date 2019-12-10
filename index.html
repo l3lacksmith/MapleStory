@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Maplestory Cube Sim</title>
+<META NAME="GOOGLEBOT" CONTENT="NOSNIPPET">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet">
+<script src="P.js"></script>
+<script src="main.js"></script>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="img/favicon.ico" />
+<script>
+    window.addEventListener("DOMContentLoaded", function() {
+        Game.init();
+    }, false);
+</script>
+<script>
+
+  // GOOGLE ANALYTICS
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83225402-1', 'auto');
+  ga('send', 'pageview');
+
+  // GOOGLE ANALYTICS
+
+</script>
+</head>
+<body>
+  <div id="preload" class="preload"></div>
+  <div style="font-family:'Source Sans Pro';font-size:0.9em"></div>
+  <div class="backgroundcontainer">
+  <div id="background" class="background"></div>
+  </div>
+  <div id="clickscreen" class="clickscreen"></div>
+
+  <div id="dragged" class="item icon dragged"></div>
+  <div id="tooltip" class="tooltip">
+    <div id="tooltiptitle" class="tooltiptitle tooltiptext">bla</div>
+    <div id="tooltipdescription" class = "tooltipdescription tooltiptext">bla</div>
+    <div id="tooltipimage" class="tooltipimage"></div>
+    <div id="tooltipcover" class="tooltipcover"></div>
+  </div>
+  <div id="equiptooltip" class="equiptooltip">
+    <div id="equiptooltiptitle" class="tooltiptitle tooltiptext">bla</div>
+    <div id="equiptooltippot" class="tooltipcover equiptooltippot"></div>
+    <div id="equiptooltipimage" class="tooltipimage"></div>
+    <div id="equiptooltipcover" class="tooltipcover equiptooltipcover"></div>
+    <div id="equiptooltiptoptext" class="tooltiptext tooltipdescription equiptooltiptoptext">(Rasre Item)</div>
+    <div id="equiptooltiplevel" class="equiptooltiplevel">120</div>
+    <div id="equiptooltipcategory" class="tooltiptext tooltipdescription equiptooltipcategory">CATEGOdRY: BADGE</div>
+    <div id="equiptooltipcube1" class="equiptooltipcube1 icon"></div>
+    <div id="equiptooltipcube2" class="equiptooltipcube2 icon"></div>
+    <div id="equiptooltipcube3" class="equiptooltipcube3 icon"></div>
+    <div id="equiptooltipcubetext1" class="tooltiptext tooltipdescription equiptooltipcubetext1">0</div>
+    <div id="equiptooltipcubetext2" class="tooltiptext tooltipdescription equiptooltipcubetext2">76</div>
+    <div id="equiptooltipcubetext3" class="tooltiptext tooltipdescription equiptooltipcubetext3">132</div>
+    <div id="equiptooltipnpot" class="equiptooltipnpot">
+      <div id="equiptooltipnpotimg" class="equiptooltipnpotimg"></div>
+      <div id="equiptooltipnpotheading" class="tooltiptext tooltipdescription equiptooltipnpotheading">Potential</div>
+      <div id="equiptooltipnpotlines" class="tooltiptext tooltipdescription equiptooltipnpotlines">STR<br>STR<br>STR</div>
+    </div>
+    <div id="equiptooltipbpot" class="equiptooltipbpot">
+      <div id="equiptooltipbpotimg" class="equiptooltipnpotimg"></div>
+      <div id="equiptooltipbpotheading" class="tooltiptext tooltipdescription equiptooltipnpotheading">Bonus Potential</div>
+      <div id="equiptooltipbpotlines" class="tooltiptext tooltipdescription equiptooltipnpotlines">STR<br>STR<br>STR</div>
+    </div>
+  </div>
+  <div id ="ui" class="ui">
+    <div id="inventory" class="inventory"></div>
+    <div id="equipment" class="equipment">
+      <div id="equiptip" class="equiptip move">
+      4564654654654
+      </div>
+    </div>
+    <div id="equipList" class="equipList">
+      <div id="equipListText" class="equipListText">
+        <div class="equipListItem noselect">hello</div>
+      </div>
+    </div>
+    <div id="cubeWindow" class="cubeWindow">
+      <div id="cubePot" class="tooltiptext tooltipdescription cubePot">center this text</div>
+      <div id="cubePot2" class="tooltiptext tooltipdescription cubePot2">center this text</div>
+      <div id="cubeLines" class="tooltiptext tooltipdescription equiptooltipnpotlines cubeLines">test<br>test <br>est</div>
+      <div id="cubeLines2" class="tooltiptext tooltipdescription equiptooltipnpotlines cubeLines2">test<br>test <br>est</div>
+      <div id="cubeAnimation" class="cubeAnimation"></div>
+      <div id="cubeButtonAgain" class="cubeButtonAgain button2"></div>
+      <div id="cubeButtonOK" class="cubeButtonOK button2"></div>
+      <div id="cubeButtonBefore" class="cubeButtonBefore button2"></div>
+      <div id="cubeButtonAfter" class="cubeButtonAfter button2"></div>
+    </div>
+  </div>
+</body>
+</html>
