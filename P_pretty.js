@@ -7,7 +7,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR: +#incSTR"
+							"-value": "STR555: +#incSTR"
 						}
 					}, {
 						"-name": "level",
