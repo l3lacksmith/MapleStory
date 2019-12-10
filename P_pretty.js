@@ -7,7 +7,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555: +#incSTR"
+							"-value": "STR: +#incSTR"
 						}
 					}, {
 						"-name": "level",
@@ -5665,7 +5665,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTR"
+							"-value": "STR: +#incSTR"
 						}
 					}, {
 						"-name": "level",
@@ -7577,7 +7577,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTRr%"
+							"-value": "STR: +#incSTRr%"
 						}
 					}, {
 						"-name": "level",
@@ -9225,7 +9225,7 @@ var P = {
 						},
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -19316,7 +19316,7 @@ var P = {
 						],
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -20418,7 +20418,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTR"
+							"-value": "STR: +#incSTR"
 						}
 					}, {
 						"-name": "level",
@@ -22330,7 +22330,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTRr%"
+							"-value": "STR: +#incSTRr%"
 						}
 					}, {
 						"-name": "level",
@@ -23970,7 +23970,7 @@ var P = {
 						},
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -30664,7 +30664,7 @@ var P = {
 						],
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -33065,7 +33065,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTR"
+							"-value": "STR: +#incSTR"
 						}
 					}, {
 						"-name": "level",
@@ -34977,7 +34977,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTRr%"
+							"-value": "STR: +#incSTRr%"
 						}
 					}, {
 						"-name": "level",
@@ -36625,7 +36625,7 @@ var P = {
 						},
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -44599,7 +44599,7 @@ var P = {
 						],
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -48080,7 +48080,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTR"
+							"-value": "STR: +#incSTR"
 						}
 					}, {
 						"-name": "level",
@@ -49992,7 +49992,7 @@ var P = {
 						"-name": "info",
 						"string": {
 							"-name": "string",
-							"-value": "STR555 +#incSTRr%"
+							"-value": "STR: +#incSTRr%"
 						}
 					}, {
 						"-name": "level",
@@ -51640,7 +51640,7 @@ var P = {
 						},
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
@@ -61427,7 +61427,7 @@ var P = {
 						],
 						"string": {
 							"-name": "string",
-							"-value": "Critical Rate: +#incCr%"
+							"-value": "อัตราคริติคอล : +#incCr%"
 						}
 					}, {
 						"-name": "level",
