@@ -4,8 +4,8 @@ function asset(what) {return "url(" + C.assetsDir + what + ")";}
 function soundasset(what) {return C.soundDir + what + "?raw=true";}
 
 C = {};
-C.assetsDir = "https://raw.githubusercontent.com/stripedypaper/stripedypaper.github.io/master/cube/img/"
-C.soundDir = "https://github.com/stripedypaper/stripedypaper.github.io/blob/master/cube/sound/";
+C.assetsDir = "http://localhost/cube/img/"
+C.soundDir = "http://localhost/cube/sound/";
 
 Assets = {};
 Assets.cursor = asset("cursor.png");
@@ -1443,4 +1443,3 @@ Game.getToolTipHeight = function() {
 //console.log(Game.getPLine(4, false, 150, C.category.hat));
 //Game.getP(C.rare, C.blackCube.id, 150, C.category.hat);
 //Game.getPLine(4, true, 150, C.category.gloves);
- 
