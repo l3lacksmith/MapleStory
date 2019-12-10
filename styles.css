@@ -569,7 +569,8 @@ body
 
 .cubeButtonOK
 {
-  position:absolute;
+  top:328px;
+  left:10px;
   height:16px;
   width:40px;
   background-image:url("http://localhost/cube/img/Cube_Red.BtOk.normal.0.png");
